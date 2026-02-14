@@ -20,7 +20,8 @@ By synthesizing only 25 generated polymers, POLARIS identified 10 high-performin
 
 Beyond accelerating discovery, POLARIS provides mechanistic insight into polymer performance, revealing a constrained design manifold governed by coupled polarity, ionizability, and hydrophobic side-chain density.
 
-**Codes** will be uploaded when our lab's server is powered on (ASAP, maybe before the end of this month).
+**Pretraining codes and fine-tuning scripts** can be found at [PolyTAO](https://github.com/hkqiu/PolymerGenerationPretrainedModel).
+**Other Codes** will be uploaded when our lab's server is powered on (ASAP, maybe before the end of this month).
 
 ---
 
